@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh2608" alt="anirudh2608" /></a> </p>
 
-- 🌱 I’m currently learning **Php**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **anirudhsinghh26@gmail.com**
 
